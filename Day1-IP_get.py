@@ -1,7 +1,7 @@
 #A python program to find the IP address of a website
 
 #knowing IP address of a website
-import socket
+import socket #install this module using command pip install socket
 
 #take the server name
 
