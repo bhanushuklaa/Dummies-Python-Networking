@@ -2,7 +2,7 @@
 
 import urllib.parse
 #take any url
-url = 'https://bteup.ac.in/webapp/home.aspx'
+url = 'https://codehunter.cc/a/git/'
 
 tpl = urllib.parse.urlparse(url)
 #display the contents of the tuple
