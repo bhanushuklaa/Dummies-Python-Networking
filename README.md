@@ -4,6 +4,9 @@
 <h3>
   <ul>
     <li>gathering IP address from website url</li>
+    <li>
+      retrieve the different parts of the URL and display them
+    </li>
     <li>Connect with TCP/IP protocols</li>
     <li>Server sharing contents with clients</li>
     <li>Client sharing contents with Server</li>
