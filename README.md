@@ -10,7 +10,7 @@
     <li>Connect with TCP/IP protocols</li>
     <li>Server sharing contents with clients</li>
     <li>Client sharing contents with Server</li>
-    <li>Conversation between Client-Server</li>
+    <li>Two way Conversation between Client-Server</li>
   </ul>
 </h3>
 <h4>After covering this topic we will go forward for more topics.</h4>
