@@ -1,5 +1,4 @@
 # A python program to create a basic chat server program
-
 import socket
 
 host = "127.0.0.1"
@@ -10,9 +9,9 @@ s = socket.socket()
 s.connect((host, port))
 
 # let max number of connections are 1 only
-"""s.listen(1)
+s.listen(1)
 c, addr = s.accept()
-print("A client connected")"""
+print("A client connected")
 str = input("enter data: ")
 
 # server runs continuously
