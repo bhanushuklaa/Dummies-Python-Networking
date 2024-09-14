@@ -11,6 +11,7 @@
     <li>Server sharing contents with clients</li>
     <li>Client sharing contents with Server</li>
     <li>Two way Conversation between Client-Server</li>
+    <li>Sending email using python</li>
   </ul>
 </h3>
 <h2>Python GUI Interface</h2>
